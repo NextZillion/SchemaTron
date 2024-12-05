@@ -1,0 +1,17 @@
+{
+  "id": "str",
+  "displayName": "str",
+  "firstName": "str",
+  "lastName": "str",
+  "email": "str",
+  "addresses": "list[str]",
+  "contact_details": {
+    "phone_number": "str",
+    "emergency_contact": {
+      "name": "str",
+      "phone_number": "str",
+      "relation": "str"
+    }
+  },
+  "optional": ["lastName", "addresses"]
+}

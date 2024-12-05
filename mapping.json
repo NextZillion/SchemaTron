@@ -1,0 +1,16 @@
+{
+  "user": {
+    "google": {
+      "name": "displayName",
+      "first_name": "firstName",
+      "last_name": "lastName",
+      "personal_email": "email"
+    },
+    "okta": {
+      "user_name": "displayName",
+      "firstname": "firstName",
+      "lastname": "lastName",
+      "business_email": "email"
+    }
+  }
+}

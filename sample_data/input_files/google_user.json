@@ -1,0 +1,19 @@
+{
+  "id": "2386",
+  "name": "AbnormalSec",
+  "first_name": "Abnormal",
+  "last_name": "Security",
+  "personal_email": "abnormalsecurity@gmail.com",
+  "addresses": [
+    "first_address, India",
+    "second_address, US"
+  ],
+  "contact_details": {
+    "phone_number": "xyz",
+    "emergency_contact": {
+      "name": "Emergency",
+      "phone_number": "abc",
+      "relation": null
+    }
+  }
+}
